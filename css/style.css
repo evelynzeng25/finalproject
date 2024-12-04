@@ -31,7 +31,7 @@ a:hover {
 
 /* Container */
 .container {
-    max-width: 1200px;
+
     margin: 0 auto;
     padding: 0 20px;
 }
@@ -137,14 +137,14 @@ text {
     display: flex; /* Flexbox layout for side-by-side alignment */
     align-items: center; /* Vertically align text and image */
     justify-content: space-between; /* Space between text and image */
-    max-width: 1200px; /* Set max width for the section */
+
     margin: 0 auto; /* Center the container */
     gap: 30px; /* Add spacing between the text and image */
 }
 
 .aboutme-text {
     flex: 1; /* Allow the text content to take up half of the space */
-    max-width: 600px; /* Prevent text from stretching too wide */
+
 }
 
 .aboutme-text h2 {
@@ -188,7 +188,7 @@ text {
 }
 
 .container {
-    max-width: 1200px;
+   
     margin: 0 auto;
     text-align: center;
 }
@@ -236,7 +236,7 @@ text {
 
 /* Project Page Styling */
 .project-page {
-    max-width: 1200px;
+
     margin: 0 auto;
     padding: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
